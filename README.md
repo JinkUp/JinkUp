@@ -10,10 +10,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg"  width="40" height="40"/>
                                          
 
-##Conheça um pouquinho de mim: 
-<h1>💻Eu sou estudante de análise de sistemas ...</h1>
-</h2>🍁 Eu curto muito a natureza ...</h2>
-</h3>📚 Gosto muito de ler e desenhar ...</h3>
+<h1>Conheça um pouquinho de mim:<h1>
+<h2>💻Eu sou estudante de análise de sistemas ...</h2>
+</h3>🍁 Eu curto muito a natureza ...</h3>
+</h4>📚 Gosto muito de ler e desenhar ...</h4>
 
 
 
