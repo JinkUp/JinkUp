@@ -1,10 +1,6 @@
 ### Oi sou a thais 👋
 
 
-<h2>💻Eu sou estudante de análise de sistemas ...</h2>
-</h3>🍁 Eu curto muito a natureza ...</h3>
-</h4>📚 Gosto muito de ler e desenhar ...</h4>
-
 
 
 ## Contatos:
