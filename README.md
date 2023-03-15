@@ -1,10 +1,18 @@
-### Oi sou a thais 👋
+##### Oi, sou a thais 👋
+
+
+<! --
+**JinkUp/JinkUp** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 
 
 
+- 🔭 Atualmente nao estou trabalhando...
+- 🌱 Atualmente estou aprendendo nodejs, java script, etc ...
+-->
 
-## Contatos:
-
+ 
+###### Contatos:
+ 
 <div>
  <a href = "https://mail.google.com/mail/u/0/#chat/welcome"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/thais-cristine-a78b971a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
