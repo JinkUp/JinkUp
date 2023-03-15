@@ -2,7 +2,7 @@
 
 
 <! --
-**JinkUp/JinkUp** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+
 
 
 
