@@ -1,4 +1,4 @@
-##### Oi, sou a thais 👋
+## Oi, sou a thais 👋
 
 
 - 🔭 Atualmente nao estou trabalhando...
